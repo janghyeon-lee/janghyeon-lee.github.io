@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "JangHyeon Lee"
-description              : "CS Ph.D. Student at University"
+description              : "Ph.D. Student at University"
 repository               : "janghyeon-lee/janghyeon-lee.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "JangHyeon Lee"
   avatar           : "images/christmas.jpg"
-  bio              : "images/Lee_J_CV.pdf"
+  bio              : images/Lee_J_CV.pdf
   # location         : "Beijing, China"
   employer         :
   pubmed           : 
