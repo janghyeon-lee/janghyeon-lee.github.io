@@ -16,16 +16,18 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I'm a first year Ph.D. student at [University](), working with [Prof. ]().
-My research interest lies in 000.
-I work on 000 to explore 000 in understanding 000.
-Here is my [CV]().
-Prior to 000, I received by Master's degree in Computing Science at [Simon Fraser University](https://www.sfu.ca/), advised by [Prof. ]().
-I completed my Bachelor's degree at [Korea University](https://www.korea.edu/mbshome/mbs/en/index.do).
-I'm looking for an intern/visiting researcher posisition for Summer 2025. Feel free to reach out to me for future exciting collaboration!
+I am a Ph.D. student in Computer Science at [University]().
+
+Prior to this, I received MS in Computing Science from [Simon Fraser University (SFU)](https://www.sfu.ca/) and BS in Materials Science & Engineering from [Korea University](https://www.korea.edu/mbshome/mbs/en/index.do).
+
+My research interest is broadly on machine learning with a focus on 000. 
+
+I am actively looking for a research intern position for Summer 2025!
 
 # 🔥 News
-- *2024.03*: &nbsp;🎉🎉 I won the 2024 CS Diversity Award. 
+- *2024.03*: &nbsp;🎉🎉 I won the [2024 SFU CS Diversity Award](https://www.sfu.ca/computing/diversity-in-computing-science/activities/cs-diversity-project-presentations-2024.html).
+- *2023.12*: &nbsp;🎉🎉 I completed my MS from SFU!
+- *2023.06*: &nbsp;🎉🎉 I won the [2023 SFU CS Innovation Prize](https://www.sfu.ca/computing/current-students/graduate-students/academic-programs/professional-master-of-science-in-computer-science/project-showcase/is-seeing-still-not-necessarily-believing-.html).
 
 # 📝 Publications 
 
@@ -49,7 +51,7 @@ I'm looking for an intern/visiting researcher posisition for Summer 2025. Feel f
 
 # 📖 Educations
 - *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornre aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
