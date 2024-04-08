@@ -20,7 +20,7 @@ I am a Ph.D. student in Computer Science at [University]().
 
 Prior to this, I received my MS in Computing Science from [Simon Fraser University (SFU)](https://www.sfu.ca/) and BS in Materials Science & Engineering from [Korea University](https://www.korea.edu/mbshome/mbs/en/index.do).
 
-My research interest lies in machine learning, specifically in creating solutions that are generalizable to different domains. I have also worked on human-computer interaction (HCI), with a focus on augmented reality (AR) for well-being.
+My research interest lies in machine learning, specifically in creating solutions that are generalizable to different domains, including human-computer interaction (HCI).
 
 <span style="color:red"> **I am actively looking for research internships (Summer 2025)!** </span>
 
