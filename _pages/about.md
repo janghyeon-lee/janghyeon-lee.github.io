@@ -26,7 +26,7 @@ My research interest lies in machine learning, specifically in creating solution
 
 # 📝 [CV]() (updated Apr. 2024)
 
-# 🔥 News
+# 🔥 Selected News
 - *2024.03*: &nbsp;🎉🎉 I won the [CS Diversity Award](https://www.sfu.ca/computing/diversity-in-computing-science/activities/cs-diversity-project-presentations-2024.html) from SFU!
 - *2023.12*: &nbsp;🎉🎉 I completed my MS from SFU.
 - *2023.06*: &nbsp;🎉🎉 I won the [CS Innovation Prize](https://www.sfu.ca/computing/current-students/graduate-students/academic-programs/professional-master-of-science-in-computer-science/project-showcase/is-seeing-still-not-necessarily-believing-.html) from SFU!
