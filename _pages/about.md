@@ -20,11 +20,11 @@ I am a Ph.D. student in Computer Science at [University]().
 
 Prior to this, I received my MS in Computing Science from [Simon Fraser University (SFU)](https://www.sfu.ca/) and BS in Materials Science & Engineering from [Korea University](https://www.korea.edu/mbshome/mbs/en/index.do).
 
-My research interest is broadly on machine learning.
+My research interest is in machine learning, specifically in creating solutions that are generalizable to various domains. I have also worked on human-computer interaction (HCI), with a focus on augmented reality (AR) for well-being.
 
-<span style="color:red"> **I am actively looking for a research intern position (Summer 2025)!** </span>
+<span style="color:red"> **I am actively looking for research internships (Summer 2025)!** </span>
 
-# 📝 [Curriculum Vitae]() (updated Apr. 2024)
+# 📝 [CV]() (updated Apr. 2024)
 
 # 🔥 News
 - *2024.03*: &nbsp;🎉🎉 I won the [2024 SFU CS Diversity Award](https://www.sfu.ca/computing/diversity-in-computing-science/activities/cs-diversity-project-presentations-2024.html).
