@@ -22,9 +22,9 @@ Prior to this, I received MS in Computing Science from [Simon Fraser University 
 
 My research interest is broadly on machine learning.
 
-** 📢 I am actively looking for a research intern position (Summer 2025)!**
+**I am actively looking for a research intern position (Summer 2025)!**
 
-# 📝 [CV]() (updated Apr. 2024)
+# 📝 [Curriculum Vitae]() (updated Apr. 2024)
 
 # 🔥 News
 - *2024.03*: &nbsp;🎉🎉 I won the [2024 SFU CS Diversity Award](https://www.sfu.ca/computing/diversity-in-computing-science/activities/cs-diversity-project-presentations-2024.html).
@@ -32,7 +32,4 @@ My research interest is broadly on machine learning.
 - *2023.06*: &nbsp;🎉🎉 I won the [2023 SFU CS Innovation Prize](https://www.sfu.ca/computing/current-students/graduate-students/academic-programs/professional-master-of-science-in-computer-science/project-showcase/is-seeing-still-not-necessarily-believing-.html).
 
 # 🎯 Selected Work
-- TBU
-
-# 🍂 Miscellanea
 - TBU
