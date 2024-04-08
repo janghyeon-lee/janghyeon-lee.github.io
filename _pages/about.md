@@ -22,7 +22,7 @@ Prior to this, I received my MS in Computing Science from [Simon Fraser Universi
 
 My research interest is broadly on machine learning.
 
-\color{red}{**I am actively looking for a research intern position (Summer 2025)!**}
+<span style="color:red"> **I am actively looking for a research intern position (Summer 2025)!** </span>
 
 # 📝 [Curriculum Vitae]() (updated Apr. 2024)
 
