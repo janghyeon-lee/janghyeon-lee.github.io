@@ -18,7 +18,7 @@ redirect_from:
 
 I am a Ph.D. student in Computer Science at [University]().
 
-Prior to this, I received MS in Computing Science from [Simon Fraser University (SFU)](https://www.sfu.ca/) and BS in Materials Science & Engineering from [Korea University](https://www.korea.edu/mbshome/mbs/en/index.do).
+Prior to this, I received my MS in Computing Science from [Simon Fraser University (SFU)](https://www.sfu.ca/) and BS in Materials Science & Engineering from [Korea University](https://www.korea.edu/mbshome/mbs/en/index.do).
 
 My research interest is broadly on machine learning.
 
