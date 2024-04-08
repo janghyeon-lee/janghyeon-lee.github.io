@@ -34,5 +34,5 @@ My research interest lies in machine learning, specifically in creating solution
 # 📝 Selected Work
 - TBU
 
-# Miscellanea
+# 🎋 Miscellanea
 “Your success in life will be determined largely by your ability to <b>speak</b>, your ability to <b>write</b>, and the quality of your <b>ideas</b>, in <b>that order</b>.”<br>-- [Patrick Winston](https://www.youtube.com/watch?v=Unzc731iCUY)
