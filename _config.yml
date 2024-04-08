@@ -8,7 +8,7 @@
 # Site Settings
 title                    : "JangHyeon Lee"
 description              : "Incoming CS PhD Student"
-repository               : "eelhj/eelhj.github.io"
+repository               : "lee-janghyeon/lee-janghyeon.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : eelhj
+  github           : lee-janghyeon
   google_plus      :
   keybase          :
   instagram        :
