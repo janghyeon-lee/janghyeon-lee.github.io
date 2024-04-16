@@ -22,7 +22,7 @@ Prior to this, I received my MS and BS in Computing Science from [Simon Fraser U
 
 My research interest lies in machine learning, specifically in creating solutions that are generalizable and transferable to interdisciplinary domains.
 
-<span style="color:red"> **I'm always open to collaboration on AI, ML, computer vision, data science or HCI projects. Feel free to email me! </span> Additionally, if you are a student at UMN looking to start research, you are more than welcome to contact me 🙂**
+<span style="color:red"> **I'm always open to collaboration on AI, ML, computer vision, data science or HCI projects. Feel free to email me!** </span> **Additionally, if you are a student at UMN looking to start research, you are more than welcome to contact me 🙂**
 
 # [CV](https://drive.google.com/file/d/1a4_3svDMB8v2AsxcqrYtZZimSnVwCY2Y/view?usp=sharing) (updated Apr. 2024)
 
