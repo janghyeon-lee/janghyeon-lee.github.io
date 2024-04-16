@@ -24,7 +24,7 @@ My research interest lies in machine learning, specifically in creating solution
 
 <span style="color:red"> **I'm always open to collaboration on AI, ML, computer vision, data science or HCI projects. Feel free to email me! Additionally, if you are a student at UMN looking to start research, you are more than welcome to contact me 🙂** </span>
 
-# [CV](https://drive.google.com/file/d/1-gKVEidDDv2MZ7YG6EEj99u1qzYHVzAd/view?usp=sharing) (updated Apr. 2024)
+# [CV](https://drive.google.com/file/d/1a4_3svDMB8v2AsxcqrYtZZimSnVwCY2Y/view?usp=sharing) (updated Apr. 2024)
 
 # News
 - *2024.03*: I won the [SFU CS Diversity Award](https://www.sfu.ca/computing/diversity-in-computing-science/activities/cs-diversity-project-presentations-2024.html) for addressing group identity bias in distilled language models!
