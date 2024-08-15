@@ -16,6 +16,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
+# About 
 I am a Ph.D. student in Computer Science at [University of Minnesota (UMN), Twin Cities](https://twin-cities.umn.edu/).
 
 Prior to this, I received my MS and BS in Computing Science from [Simon Fraser University (SFU)](https://www.sfu.ca/), and a BS in Materials Science & Engineering from [Korea University](https://www.korea.edu/mbshome/mbs/en/index.do).
