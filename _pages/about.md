@@ -19,7 +19,7 @@ redirect_from:
 # About 
 I am a Ph.D. student in Computer Science at [University of Minnesota (UMN), Twin Cities](https://twin-cities.umn.edu/). Prior to this, I received my MS and BS in Computing Science from [Simon Fraser University (SFU)](https://www.sfu.ca/), and a BS in Materials Science & Engineering from [Korea University](https://www.korea.edu/mbshome/mbs/en/index.do). My research interests lie in creating simple but effective machine learning solutions that are efficient, robust, and generalizable for real-world applications.
 
-<span style="color:red"> **I'm always open to collaboration on AI, ML, computer vision, and HCI projects. Feel free to contact me!** </span>
+<span style="color:red"> **I'm always open to collaboration! Feel free to contact me.** </span>
 
 # [CV](https://drive.google.com/file/d/1m_peQoGdHjLE8ZRAdHklRb6JqteGw9U6/view?usp=sharing) (updated Aug. 2024)
 
