@@ -20,11 +20,11 @@ I am a Ph.D. student in Computer Science at [University of Minnesota (UMN), Twin
 
 Prior to this, I received my MS and BS in Computing Science from [Simon Fraser University (SFU)](https://www.sfu.ca/), and a BS in Materials Science & Engineering from [Korea University](https://www.korea.edu/mbshome/mbs/en/index.do).
 
-My research interest lies in machine learning, specifically in creating solutions that are generalizable and transferable to interdisciplinary domains.
+My research focuses on creating simple but effective machine learning solutions that are efficient, robust, and generalizable for real-world applications.
 
-<span style="color:red"> **I'm always open to collaboration on AI, ML, computer vision, data science or HCI projects. Feel free to email me!** </span> **Additionally, if you are a student at UMN looking to start research, you are more than welcome to contact me 🙂**
+<span style="color:red"> **I'm always open to collaboration on AI, ML, computer vision, HCI projects. Feel free to contact me!** </span>
 
-# [CV](https://drive.google.com/file/d/1m_peQoGdHjLE8ZRAdHklRb6JqteGw9U6/view?usp=sharing) (updated Apr. 2024)
+# [CV](https://drive.google.com/file/d/1m_peQoGdHjLE8ZRAdHklRb6JqteGw9U6/view?usp=sharing) (updated Aug. 2024)
 
 # News
 - *2024.03*: I won the [SFU CS Diversity Award](https://www.sfu.ca/computing/diversity-in-computing-science/activities/cs-diversity-project-presentations-2024.html) for addressing group identity bias in distilled language models!
