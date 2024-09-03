@@ -17,7 +17,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # About 
-I am a Ph.D. student in Computer Science at [University of Minnesota (UMN)](https://twin-cities.umn.edu/). Prior to this, I received my MS and BS in Computing Science from [Simon Fraser University (SFU)](https://www.sfu.ca/), and a BS in Materials Science & Engineering from [Korea University](https://www.korea.edu/mbshome/mbs/en/index.do). My research interests lie in machine learning, with a focus on robust tinyML and spatio-temporal AI. I am particularly excited about AI for scientific discovery and creating elegant (i.e., simple yet effective) solutions that can learn with little to no supervision and generalize to unseen data.
+I am a Ph.D. student in Computer Science at [University of Minnesota (UMN)](https://twin-cities.umn.edu/). Prior to this, I received my MS and BS in Computing Science from [Simon Fraser University (SFU)](https://www.sfu.ca/), and a BS in Materials Science & Engineering from [Korea University](https://www.korea.edu/mbshome/mbs/en/index.do). My research interests lie in machine learning, with a focus on robust tinyML and spatio-temporal AI. I am particularly excited about AI for scientific discovery and creating elegant (i.e., simple yet effective) solutions that can learn with minimal supervision while generalizing to unseen data.
 
 <span style="color:red"> **I'm always open to collaboration! Feel free to contact me.** </span>
 
