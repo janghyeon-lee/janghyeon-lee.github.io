@@ -17,7 +17,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # About 
-I am a Ph.D. student in Computer Science at [University of Minnesota (UMN)](https://twin-cities.umn.edu/). Prior to this, I received my MS and BS in Computing Science from [Simon Fraser University (SFU)](https://www.sfu.ca/), and a BS in Materials Science & Engineering from [Korea University](https://www.korea.edu/mbshome/mbs/en/index.do). My research interests lie in creating elegant (i.e., simple yet effective) AI solutions that can learn with little to no supervision for real-world, interdisciplinary applications.
+I am a Ph.D. student in Computer Science at [University of Minnesota (UMN)](https://twin-cities.umn.edu/). Prior to this, I received my MS and BS in Computing Science from [Simon Fraser University (SFU)](https://www.sfu.ca/), and a BS in Materials Science & Engineering from [Korea University](https://www.korea.edu/mbshome/mbs/en/index.do). My research interests lie in creating elegant (i.e., simple yet effective) multimodal AI systems that can learn with little to no supervision for real-world, interdisciplinary applications.
 
 <span style="color:red"> **I'm always open to collaboration! Feel free to contact me.** </span>
 
