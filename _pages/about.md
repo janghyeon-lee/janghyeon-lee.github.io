@@ -24,9 +24,9 @@ I am a Ph.D. student in Computer Science at [University of Minnesota (UMN)](http
 # [CV](https://drive.google.com/file/d/1m_peQoGdHjLE8ZRAdHklRb6JqteGw9U6/view?usp=sharing) (updated Aug. 2024)
 
 # 🎉 News
-- *2024.03*: I won the [SFU CS Diversity Award](https://www.sfu.ca/computing/diversity-in-computing-science/activities/cs-diversity-project-presentations-2024.html) for addressing group identity bias in distilled language models!
+- *2024.03*: I won the [SFU CS Diversity Award](https://www.sfu.ca/computing/diversity-in-computing-science/activities/cs-diversity-project-presentations-2024.html) for mitigating group identity bias in distilled language models via a dual-teacher approach, all in just one epoch!
 - *2023.12*: I completed my master's degree in CS at SFU.
-- *2023.06*: I won the [SFU CS Innovation Prize](https://www.sfu.ca/computing/current-students/graduate-students/academic-programs/professional-master-of-science-in-computer-science/project-showcase/is-seeing-still-not-necessarily-believing-.html) for addressing image data scarcity issues in medicine and agriculture via diffusion models!
+- *2023.06*: I won the [SFU CS Innovation Prize](https://www.sfu.ca/computing/current-students/graduate-students/academic-programs/professional-master-of-science-in-computer-science/project-showcase/is-seeing-still-not-necessarily-believing-.html) for tackling data scarcity in medicine and agriculture, boosting data-hungry models with conditional diffusion-generated data!
 
 # 🎋 Miscellanea
 “Your success in life will be determined largely by your ability to <b>speak</b>, your ability to <b>write</b>, and the quality of your <b>ideas</b>, in <b>that order</b>.”<br>-- [Patrick Winston](https://www.youtube.com/watch?v=Unzc731iCUY)
