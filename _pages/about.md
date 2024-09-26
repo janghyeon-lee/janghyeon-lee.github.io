@@ -17,7 +17,9 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # About 
-I am a Ph.D. student in Computer Science at [University of Minnesota (UMN), Twin Cities](https://twin-cities.umn.edu/). Prior to this, I received my MS and BS in Computing Science from [Simon Fraser University (SFU), Burnaby](https://www.sfu.ca/), and a BS in Materials Science & Engineering from [Korea University, Seoul](https://www.korea.edu/mbshome/mbs/en/index.do). My research interests lie in machine learning (ML), with a focus on robust tinyML and spatiotemporal AI.
+I am a Ph.D. student in Computer Science at [University of Minnesota (UMN)](https://twin-cities.umn.edu/), supervised by [Prof. Yao-Yi Chiang](https://knowledge-computing.github.io/). My research interests lie in machine learning (ML), with a focus on robust tinyML and spatiotemporal AI. I am particularly excited when AI can facilitate more interdisciplinary research.
+
+Prior to this, I received my MS and BS in Computing Science from [Simon Fraser University (SFU)](https://www.sfu.ca/), and a BS in Materials Science & Engineering from [Korea University](https://www.korea.edu/mbshome/mbs/en/index.do). I also did an internship at [KAIST](https://www.kaist.ac.kr/en/), which ignited my journey in AI.
 
 <span style="color:red"> **I'm always open to collaboration! Feel free to contact me.** </span>
 
