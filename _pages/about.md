@@ -17,11 +17,11 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # About 
-I am a Ph.D. student in Computer Science at [University of Minnesota (UMN)](https://twin-cities.umn.edu/). Prior to this, I received my MS and BS in Computing Science from [Simon Fraser University (SFU)](https://www.sfu.ca/), and a BS in Materials Science & Engineering from [Korea University](https://www.korea.edu/mbshome/mbs/en/index.do). My research interests lie in machine learning, with a focus on robust tinyML and spatiotemporal AI. I am particularly excited about AI for scientific discovery and creating elegant (i.e., simple yet effective) solutions that can learn with little to no supervision for data-driven challenges.
+I am a Ph.D. student in Computer Science at [University of Minnesota (UMN), Twin Cities](https://twin-cities.umn.edu/). Prior to this, I received my MS and BS in Computing Science from [Simon Fraser University (SFU), Burnaby](https://www.sfu.ca/), and a BS in Materials Science & Engineering from [Korea University, Seoul](https://www.korea.edu/mbshome/mbs/en/index.do). My research interests lie in machine learning (ML), with a focus on robust tinyML and spatiotemporal AI.
 
 <span style="color:red"> **I'm always open to collaboration! Feel free to contact me.** </span>
 
-# [CV](https://drive.google.com/file/d/1m_peQoGdHjLE8ZRAdHklRb6JqteGw9U6/view?usp=sharing) (updated Aug. 2024)
+# [CV](https://drive.google.com/file/d/1m_peQoGdHjLE8ZRAdHklRb6JqteGw9U6/view?usp=sharing) (updated Sep. 2024)
 
 # 🎉 News
 - *2024.03*: I won the [SFU CS Diversity Award](https://www.sfu.ca/computing/diversity-in-computing-science/activities/cs-diversity-project-presentations-2024.html) for mitigating group identity bias in distilled language models via a dual-teacher approach, all in just one epoch!
