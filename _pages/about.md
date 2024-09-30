@@ -23,7 +23,7 @@ Prior to this, I received my MS and BS in Computing Science from [Simon Fraser U
 
 <span style="color:red"> **I’m always open to collaboration and mentorship—feel free to reach out!** </span>
 
-# [CV](https://drive.google.com/file/d/1m_peQoGdHjLE8ZRAdHklRb6JqteGw9U6/view?usp=sharing) (updated Sep. 2024)
+# [Curriculum Vitae](https://drive.google.com/file/d/1m_peQoGdHjLE8ZRAdHklRb6JqteGw9U6/view?usp=sharing) (updated Sep. 2024)
 
 # 🎉 News
 - *2024.09*: Our paper "Context-Aware Trajectory Anomaly Detection" was accepted to [GeoAnomalies@ ACM SIGSPATIAL 2024](https://onspatial.github.io/GeoAnomalies24/)!
