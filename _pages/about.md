@@ -21,7 +21,7 @@ I am a Ph.D. student in Computer Science at [University of Minnesota (UMN)](http
 
 Prior to this, I received my MS and BS in Computing Science from [Simon Fraser University (SFU)](https://www.sfu.ca/), and a BS in Materials Science & Engineering from [Korea University](https://www.korea.edu/mbshome/mbs/en/index.do). I also did an internship at [KAIST](https://www.kaist.ac.kr/en/), which ignited my journey in AI.
 
-<span style="color:red"> **I’m always open to collaboration! Feel free to reach out. If you’re a UMN student, you’re welcome to drop by my office in Keller Hall, Room 5-248.** </span>
+<span style="color:red"> **I’m always open to collaboration and mentorship—feel free to reach out!** </span>
 
 # [CV](https://drive.google.com/file/d/1m_peQoGdHjLE8ZRAdHklRb6JqteGw9U6/view?usp=sharing) (updated Sep. 2024)
 
