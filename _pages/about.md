@@ -45,12 +45,9 @@ Prior to this, I received my MS and BS in Computing Science from [Simon Fraser U
 
 <div class='paper-box'>
   <div class='paper-box-image'>
-    <div>
-      <img src='images/humob24.png' alt="sym" width="90%">
-    </div>
+    <img src='images/humob24.png' alt="sym" width="90%">
   </div>
-</div>
-<div class='paper-box-text' markdown="1">
+  <div class='paper-box-text' markdown="1">
 
 ## CrossBag: A Bag of Tricks for Cross-City Mobility Prediction
 
@@ -58,22 +55,21 @@ Prior to this, I received my MS and BS in Computing Science from [Simon Fraser U
 
 <span style="color:grey">HuMob @ACM SIGSPATIAL 2024</span>
 
+  </div>
 </div>
 
 <div class='paper-box'>
   <div class='paper-box-image'>
-    <div>
-      <img src='images/geoanomalies24.png' alt="sym" width="90%">
-    </div>
+    <img src='images/geoanomalies24.png' alt="sym" width="90%">
   </div>
-</div>
-<div class='paper-box-text' markdown="1">
+  <div class='paper-box-text' markdown="1">
   
 ## Context-Aware Trajectory Anomaly Detection
 Haoji Hu, Jina Kim, Jinwei Zhou, Sofia Kirsanova, **JangHyeon Lee**, Yao-Yi Chiang
 
 <span style="color:grey">GeoAnomalies @ACM SIGSPATIAL 2024</span>
 
+  </div>
 </div>
 
 # 🎋 Miscellanea
