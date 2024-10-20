@@ -11,6 +11,26 @@ redirect_from:
   body {
     color: #000000; /* Ensures all text is pure black */
   }
+
+  hr {
+    border: 0;
+    height: 1px;
+    background: #ddd; /* A soft grey for the line */
+    margin-top: 20px;  /* Adds space before the line */
+    margin-bottom: 20px; /* Adds space after the line */
+  }
+
+  h2, h3 {
+    border-bottom: none; /* Removes any automatic lines under headers */
+  }
+
+  a {
+    color: #0000EE; /* Ensures links remain blue */
+  }
+
+  a:visited {
+    color: #551A8B; /* Keeps visited links purple */
+  }
 </style>
 
 {% if site.google_scholar_stats_use_cdn %}
