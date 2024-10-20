@@ -11,14 +11,12 @@ redirect_from:
   body {
     color: #000000; /* Ensures all text is pure black */
   }
-
   /* Remove any border or shadow under headers */
   h1, h2, h3, h4, h5, h6 {
     border-bottom: none !important; /* Removes any border below the header */
     box-shadow: none !important; /* Removes any shadow that might create a line */
     margin-bottom: 0 !important; /* Optional: Reduce any bottom margin that adds space */
   }
-
   /* Style for soft line between sections */
   hr {
     border: 0;
@@ -48,7 +46,6 @@ Prior to this, I received my MS and BS in Computing Science from [Simon Fraser U
 <span style="color:red"> **I’m always open to collaboration and discussion—feel free to reach out!** </span>
 
 # [Curriculum Vitae](https://drive.google.com/file/d/1m_peQoGdHjLE8ZRAdHklRb6JqteGw9U6/view?usp=sharing) (updated Sep. 2024)
-
 <hr> <!-- Soft line after Curriculum Vitae -->
 
 # 🎉 News
@@ -64,7 +61,6 @@ Prior to this, I received my MS and BS in Computing Science from [Simon Fraser U
   - *2023.06*: I won the [SFU CS Innovation Prize](https://www.sfu.ca/computing/current-students/graduate-students/academic-programs/professional-master-of-science-in-computer-science/project-showcase/is-seeing-still-not-necessarily-believing-.html) for tackling data scarcity in medicine and agriculture, boosting data-hungry models with conditional diffusion-generated data!
   </article>
 </details>
-
 <hr> <!-- Soft line after "Click to expand" -->
 
 # ✒️ Publications (Selected)
