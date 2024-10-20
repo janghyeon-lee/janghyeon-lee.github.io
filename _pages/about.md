@@ -17,7 +17,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # About 
-I am a Ph.D. student in Computer Science at [University of Minnesota (UMN)](https://twin-cities.umn.edu/), advised by [Prof. Yao-Yi Chiang](https://knowledge-computing.github.io/). 
+I am a Ph.D. student in Computer Science (CS) at [University of Minnesota (UMN)](https://twin-cities.umn.edu/), advised by [Prof. Yao-Yi Chiang](https://knowledge-computing.github.io/).
 
 My research interests lie in machine learning (ML), with a focus on the spatiotemporal domain (space and time). I am particularly interested in developing ML models that can perform effectively even with sparse and unevenly distributed data.
 
