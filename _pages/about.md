@@ -21,7 +21,8 @@ redirect_from:
   }
 
   h2, h3 {
-    border-bottom: none; /* Removes any automatic lines under headers */
+    border-bottom: none !important; /* Removes any automatic lines under headers */
+    box-shadow: none !important;    /* Removes shadow-based lines */
   }
 
   a {
