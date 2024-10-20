@@ -7,6 +7,12 @@ redirect_from:
   - /about.html
 ---
 
+<style>
+  body {
+    color: #000000; /* Ensures all text is pure black */
+  }
+</style>
+
 {% if site.google_scholar_stats_use_cdn %}
 {% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
 {% else %}
