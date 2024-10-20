@@ -28,8 +28,8 @@ Prior to this, I received my MS and BS in Computing Science from [Simon Fraser U
 # [Curriculum Vitae](https://drive.google.com/file/d/1m_peQoGdHjLE8ZRAdHklRb6JqteGw9U6/view?usp=sharing) (updated Sep. 2024)
 
 # 🎉 News
-- *2024.10*: I made it into the top 10 teams of the [HuMob competition @SIGSPATIAL'24](https://wp.nyu.edu/humobchallenge2024/) out of 100+ participating teams! See you in Atlanta :)
-- *2024.09*: Our paper "Context-Aware Trajectory Anomaly Detection" was accepted to [GeoAnomalies @SIGSPATIAL'24](https://onspatial.github.io/GeoAnomalies24/)!
+- *2024.10*: I made it into the top 10 teams of the [HuMob'24 competition](https://wp.nyu.edu/humobchallenge2024/) out of 100+ participating teams! See you in Atlanta :)
+- *2024.09*: Our paper "Context-Aware Trajectory Anomaly Detection" was accepted to [GeoAnomalies'24](https://onspatial.github.io/GeoAnomalies24/)!
 - *2024.08*: I officially started my Ph.D. journey at UMN.
 <details>
   <summary>&nbsp;Click to expand</summary>
