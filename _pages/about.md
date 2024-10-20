@@ -41,7 +41,7 @@ Prior to this, I received my MS and BS in Computing Science from [Simon Fraser U
   </article>
 </details>
 
-# ✒️ Publications
+# ✒️ Publications (Selected)
 
 <div class='paper-box'>
   <div class='paper-box-image'>
