@@ -12,17 +12,13 @@ redirect_from:
     color: #000000; /* Ensures all text is pure black */
   }
 
-  hr {
-    border: 0;
-    height: 1px;
-    background: #ddd; /* A soft grey for the line */
-    margin-top: 20px;  /* Adds space before the line */
-    margin-bottom: 20px; /* Adds space after the line */
+  /* Remove any border or shadow under headers */
+  h1, h2, h3, h4, h5, h6 {
+    border-bottom: none !important; /* Removes any border below the header */
+    box-shadow: none !important; /* Removes any shadow that might create a line */
+    margin-bottom: 0 !important; /* Optional: Reduce any bottom margin that adds space */
   }
-
-  h2, h3 {
-    border-bottom: none; /* Removes any automatic lines under headers */
-  }
+  
 </style>
 
 {% if site.google_scholar_stats_use_cdn %}
