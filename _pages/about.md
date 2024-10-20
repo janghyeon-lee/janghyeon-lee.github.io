@@ -53,6 +53,8 @@ Prior to this, I received my MS and BS in Computing Science from [Simon Fraser U
 
 <span style="color:grey">HuMob @ACM SIGSPATIAL 2024</span>
 
+</div>
+
 ## Context-Aware Trajectory Anomaly Detection
 Haoji Hu, Jina Kim, Jinwei Zhou, Sofia Kirsanova, **JangHyeon Lee**, Yao-Yi Chiang
 
