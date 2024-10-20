@@ -42,7 +42,9 @@ Prior to this, I received my MS and BS in Computing Science from [Simon Fraser U
 </details>
 
 # ✒️ Publications
-
+<div class='paper-box'>
+<div class='paper-box-image'><div><div class="badge">In Submission</div><img src='images/humob24.png' alt="sym" width="90%"></div></div>
+<div class='paper-box-text' markdown="1">
 ## CrossBag: A Bag of Tricks for Cross-City Mobility Prediction
 **JangHyeon Lee**, Yao-Yi Chiang
 
