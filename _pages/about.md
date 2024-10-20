@@ -11,19 +11,20 @@ redirect_from:
   body {
     color: #000000; /* Ensures all text is pure black */
   }
+
   /* Remove any border or shadow under headers */
   h1, h2, h3, h4, h5, h6 {
     border-bottom: none !important; /* Removes any border below the header */
     box-shadow: none !important; /* Removes any shadow that might create a line */
     margin-bottom: 0 !important; /* Optional: Reduce any bottom margin that adds space */
   }
-  /* Style for soft line between sections */
+
+  /* Style for soft line between sections using border */
   hr {
-    border: 0;
-    height: 1px;
-    background: #ddd; /* Soft grey color */
-    margin-top: 20px;
-    margin-bottom: 20px;
+    display: block;
+    margin: 1em 0; /* Adds space around the line */
+    border: 0; /* Removes default border */
+    border-top: 1px solid #ddd; /* Soft grey line with border on top */
   }
 </style>
 
