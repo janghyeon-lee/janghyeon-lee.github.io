@@ -18,7 +18,15 @@ redirect_from:
     box-shadow: none !important; /* Removes any shadow that might create a line */
     margin-bottom: 0 !important; /* Optional: Reduce any bottom margin that adds space */
   }
-  
+
+  /* Style for soft line between sections */
+  hr {
+    border: 0;
+    height: 1px;
+    background: #ddd; /* Soft grey color */
+    margin-top: 20px;
+    margin-bottom: 20px;
+  }
 </style>
 
 {% if site.google_scholar_stats_use_cdn %}
@@ -41,6 +49,8 @@ Prior to this, I received my MS and BS in Computing Science from [Simon Fraser U
 
 # [Curriculum Vitae](https://drive.google.com/file/d/1m_peQoGdHjLE8ZRAdHklRb6JqteGw9U6/view?usp=sharing) (updated Sep. 2024)
 
+<hr> <!-- Soft line after Curriculum Vitae -->
+
 # 🎉 News
 - *2024.10*: I made it into the top 10 teams of the [HuMob'24 competition](https://wp.nyu.edu/humobchallenge2024/) out of 100+ participating teams! See you in Atlanta :)
 - *2024.09*: Our paper "Context-Aware Trajectory Anomaly Detection" was accepted to [GeoAnomalies'24](https://onspatial.github.io/GeoAnomalies24/)!
@@ -54,6 +64,8 @@ Prior to this, I received my MS and BS in Computing Science from [Simon Fraser U
   - *2023.06*: I won the [SFU CS Innovation Prize](https://www.sfu.ca/computing/current-students/graduate-students/academic-programs/professional-master-of-science-in-computer-science/project-showcase/is-seeing-still-not-necessarily-believing-.html) for tackling data scarcity in medicine and agriculture, boosting data-hungry models with conditional diffusion-generated data!
   </article>
 </details>
+
+<hr> <!-- Soft line after "Click to expand" -->
 
 # ✒️ Publications (Selected)
 <div class='paper-box'>
