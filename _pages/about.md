@@ -32,7 +32,7 @@ Prior to this, I received my MS and BS in Computing Science from [Simon Fraser U
 - *2024.09*: Our paper "Context-Aware Trajectory Anomaly Detection" was accepted to [GeoAnomalies @SIGSPATIAL'24](https://onspatial.github.io/GeoAnomalies24/)!
 - *2024.08*: I officially started my Ph.D. journey at UMN.
 <details>
-  <summary>Click to expand</summary>
+  <summary> &nbsp; Click to expand</summary>
   
   <article markdown="1" class="post-content">
   - *2024.03*: I won the [SFU CS Diversity Award](https://www.sfu.ca/computing/diversity-in-computing-science/activities/cs-diversity-project-presentations-2024.html) for mitigating group identity bias in distilled language models via a dual-teacher approach, all in just one epoch!
