@@ -27,10 +27,6 @@ redirect_from:
   a {
     color: #0000EE; /* Ensures links remain blue */
   }
-
-  a:visited {
-    color: #551A8B; /* Keeps visited links purple */
-  }
 </style>
 
 {% if site.google_scholar_stats_use_cdn %}
