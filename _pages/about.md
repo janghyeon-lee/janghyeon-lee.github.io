@@ -26,8 +26,8 @@ Prior to this, I received my MS and BS in Computing Science from [Simon Fraser U
 # [Curriculum Vitae](https://drive.google.com/file/d/1m_peQoGdHjLE8ZRAdHklRb6JqteGw9U6/view?usp=sharing) (updated Sep. 2024)
 
 # 🎉 News
-- *2024.10*: I made it into the top 10 teams of the [HuMob 2024 competition](https://wp.nyu.edu/humobchallenge2024/) out of the >100 participating teams! See you in Atlanta :)
-- *2024.09*: Our paper "Context-Aware Trajectory Anomaly Detection" was accepted to [GeoAnomalies@ ACM SIGSPATIAL 2024](https://onspatial.github.io/GeoAnomalies24/)!
+- *2024.10*: I made it into the top 10 teams of the [HuMob'24 competition@ ACM SIGSPATIAL](https://wp.nyu.edu/humobchallenge2024/) out of the >100 participating teams! See you in Atlanta :)
+- *2024.09*: Our paper "Context-Aware Trajectory Anomaly Detection" was accepted to [GeoAnomalies'24@ ACM SIGSPATIAL](https://onspatial.github.io/GeoAnomalies24/)!
 - *2024.03*: I won the [SFU CS Diversity Award](https://www.sfu.ca/computing/diversity-in-computing-science/activities/cs-diversity-project-presentations-2024.html) for mitigating group identity bias in distilled language models via a dual-teacher approach, all in just one epoch!
 - *2023.12*: I completed my master's degree in CS at [SFU](https://www.sfu.ca/).
 - *2023.06*: I won the [SFU CS Innovation Prize](https://www.sfu.ca/computing/current-students/graduate-students/academic-programs/professional-master-of-science-in-computer-science/project-showcase/is-seeing-still-not-necessarily-believing-.html) for tackling data scarcity in medicine and agriculture, boosting data-hungry models with conditional diffusion-generated data!
