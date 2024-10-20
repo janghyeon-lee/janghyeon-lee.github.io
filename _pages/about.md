@@ -23,10 +23,6 @@ redirect_from:
   h2, h3 {
     border-bottom: none; /* Removes any automatic lines under headers */
   }
-
-  a {
-    color: #0000EE; /* Ensures links remain blue */
-  }
 </style>
 
 {% if site.google_scholar_stats_use_cdn %}
