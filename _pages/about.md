@@ -44,7 +44,7 @@ Prior to this, I received my MS and BS in Computing Science from [Simon Fraser U
 # ✒️ Publications
 
 <div class='paper-box'>
-<div class='paper-box-image'><div><div class="badge">HuMob 2024</div><img src='images/humob24.png' alt="sym" width="90%"></div></div>
+<div class='paper-box-image'><div><img src='images/humob24.png' alt="sym" width="90%"></div>
 <div class='paper-box-text' markdown="1">
   
 ## CrossBag: A Bag of Tricks for Cross-City Mobility Prediction
