@@ -45,10 +45,12 @@ Prior to this, I received my MS and BS in Computing Science from [Simon Fraser U
 
 ## CrossBag: A Bag of Tricks for Cross-City Mobility Prediction
 **JangHyeon Lee**, Yao-Yi Chiang
+
 <span style="color:grey">HuMob @ACM SIGSPATIAL 2024</span>
 
 ## Context-Aware Trajectory Anomaly Detection
 Haoji Hu, Jina Kim, Jinwei Zhou, Sofia Kirsanova, **JangHyeon Lee**, Yao-Yi Chiang
+
 <span style="color:grey">GeoAnomalies @ACM SIGSPATIAL 2024</span>
 
 # 🎋 Miscellanea
