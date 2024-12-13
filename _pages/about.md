@@ -50,6 +50,7 @@ Prior to this, I received my MS and BS in Computing Science from [Simon Fraser U
 <hr> <!-- Soft line after Curriculum Vitae -->
 
 # 🎉 News
+- *2024.12*: I am fortunate to receive the CSE Data Science Initiative (DSI) Fellowship.
 - *2024.10*: I made it into the top 10 teams of the [HuMob'24 competition](https://wp.nyu.edu/humobchallenge2024/) out of 100+ participating teams! See you in Atlanta :)
 - *2024.09*: Our paper, <em>Context-Aware Trajectory Anomaly Detection</em>, was accepted to [GeoAnomalies'24](https://onspatial.github.io/GeoAnomalies24/)!
 - *2024.08*: I officially started my Ph.D. journey at UMN.
