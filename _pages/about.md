@@ -46,7 +46,7 @@ Prior to this, I received my MS and BS in Computing Science from [Simon Fraser U
 
 <span style="color:red"> **I’m always open to collaboration and discussion—feel free to reach out!** </span>
 
-# [Curriculum Vitae](https://drive.google.com/file/d/1m_peQoGdHjLE8ZRAdHklRb6JqteGw9U6/view?usp=sharing) (updated Dec. 2024)
+# [Curriculum Vitae](https://drive.google.com/file/d/1m_peQoGdHjLE8ZRAdHklRb6JqteGw9U6/view?usp=sharing) (updated Jan. 2025)
 <hr> <!-- Soft line after Curriculum Vitae -->
 
 # 🎉 News
