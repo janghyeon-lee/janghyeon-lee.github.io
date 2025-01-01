@@ -50,7 +50,7 @@ Prior to this, I received my MS and BS in Computing Science from [Simon Fraser U
 <hr> <!-- Soft line after Curriculum Vitae -->
 
 # 🎉 News
-- *2025.01*: I am fortunate to receive the CSE Data Science Initiative (DSI) Fellowship. We will be taking Spatial AI to the Sun 🌞!
+- *2025.01*: I am fortunate to receive the CSE Data Science Initiative (DSI) Fellowship. We will be taking Spatial AI to the Sun! 🌞
 
 <details>
   <summary>&nbsp;Click to expand (2024)</summary>
