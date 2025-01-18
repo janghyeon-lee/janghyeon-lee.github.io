@@ -77,12 +77,25 @@ Prior to this, I received my MS and BS in Computing Science from [Simon Fraser U
 # ✒️ Publications (Selected)
 <div class='paper-box'>
   <div class='paper-box-image'>
+    <img src='images/soon.png' alt="sym" width="90%">
+  </div>
+  <div class='paper-box-text' markdown="1">
+
+## [DiminishAR: Diminishing Visual Distractions via Holographic AR Displays](https://chi2025.acm.org/)
+**JangHyeon Lee**, Lawrence Kim
+
+<span style="color:grey">ACM CHI 2025</span>
+
+  </div>
+</div>
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
     <img src='images/humob24.png' alt="sym" width="90%">
   </div>
   <div class='paper-box-text' markdown="1">
 
 ## [CrossBag: A Bag of Tricks for Cross-City Mobility Prediction](https://dl.acm.org/doi/abs/10.1145/3681771.3699935)
-
 **JangHyeon Lee**, Yao-Yi Chiang
 
 <span style="color:grey">HuMob @ACM SIGSPATIAL 2024</span>
