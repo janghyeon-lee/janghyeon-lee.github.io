@@ -50,7 +50,7 @@ Prior to this, I received my MS and BS in Computing Science from [Simon Fraser U
 <hr> <!-- Soft line after Curriculum Vitae -->
 
 # 🎉 News
-- *2025.01*: Our paper, <em>DiminishAR: Diminishing Visual Distractions via Holographic AR Displays<em>, was accepted to [CHI 2025](https://chi2025.acm.org/)! See you in Yokohama 🌸
+- *2025.01*: Our paper, <em>DiminishAR: Diminishing Visual Distractions via Holographic AR Displays</em>, was accepted to [CHI 2025](https://chi2025.acm.org/)! See you in Yokohama 🌸
 - *2025.01*: I am fortunate to receive the CSE Data Science Initiative (DSI) Fellowship. We will be taking Spatial AI to the Sun! 🌞
 
 <details>
