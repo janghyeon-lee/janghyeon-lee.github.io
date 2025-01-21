@@ -84,10 +84,7 @@ Prior to this, I received my MS and BS in Computing Science from [Simon Fraser U
 ## [DiminishAR: Diminishing Visual Distractions via Holographic AR Displays](https://chi2025.acm.org/)
 **JangHyeon Lee**, Lawrence Kim
 
-<span style="color:grey">
-ACM CHI 2025 
-  [Acceptance rate = 25%]
-</span>
+<span style="color:grey">ACM CHI 2025<br>[Acceptance rate = 25%]</span>
 
   </div>
 </div>
@@ -101,7 +98,7 @@ ACM CHI 2025
 ## [CrossBag: A Bag of Tricks for Cross-City Mobility Prediction](https://dl.acm.org/doi/abs/10.1145/3681771.3699935)
 **JangHyeon Lee**, Yao-Yi Chiang
 
-<span style="color:grey">ACM SIGSPATIAL HuMob 2024 [Top 10 out of 100+ teams]</span>
+<span style="color:grey">ACM SIGSPATIAL HuMob 2024<br>[Top 10 out of 100+ teams]</span>
 
   </div>
 </div>
