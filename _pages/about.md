@@ -84,7 +84,10 @@ Prior to this, I received my MS and BS in Computing Science from [Simon Fraser U
 ## [DiminishAR: Diminishing Visual Distractions via Holographic AR Displays](https://chi2025.acm.org/)
 **JangHyeon Lee**, Lawrence Kim
 
-<span style="color:grey">ACM CHI 2025 [Acceptance rate = 25%]</span>
+<span style="color:grey">
+ACM CHI 2025 
+  [Acceptance rate = 25%]
+</span>
 
   </div>
 </div>
