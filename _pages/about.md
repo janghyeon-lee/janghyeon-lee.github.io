@@ -40,16 +40,17 @@ redirect_from:
 # About 
 I am a Ph.D. student in Computer Science at [University of Minnesota (UMN)](https://twin-cities.umn.edu/), advised by [Prof. Yao-Yi Chiang](https://knowledge-computing.github.io/).
 
-My research interests lie in machine learning (ML), with a focus on the **spatiotemporal domain (space and time)**. I am particularly interested in developing ML models that can perform effectively even with sparse and unevenly distributed data.
+My research interests lie in machine learning (ML), with a focus on the **spatiotemporal domain (space and time)**, a fundamental aspect of many real-world systems. I am particularly interested in developing ML models that perform effectively even with sparse and unevenly distributed data, with the broader goal of enabling AI for science.
 
 Prior to this, I received my MS and BS in Computing Science from [Simon Fraser University (SFU)](https://www.sfu.ca/), and a BS in Materials Science & Engineering from [Korea University](https://www.korea.edu/mbshome/mbs/en/index.do). I also did an internship at [KAIST](https://www.kaist.ac.kr/en/), which ignited my journey in AI.
 
 <span style="color:red"> **I’m always open to collaboration and discussion—feel free to reach out!** </span>
 
-# [Curriculum Vitae](https://drive.google.com/file/d/1m_peQoGdHjLE8ZRAdHklRb6JqteGw9U6/view?usp=sharing) (updated Feb. 2025)
+# [Curriculum Vitae](https://drive.google.com/file/d/1m_peQoGdHjLE8ZRAdHklRb6JqteGw9U6/view?usp=sharing) (updated Mar. 2025)
 <hr> <!-- Soft line after Curriculum Vitae -->
 
 # 🎉 News
+- *2025.03*: Our paper, <em>Multi-Modal Region Representation for Green Space Mapping in Delhi, India<em>, was accepted to [ICC 2025](https://icc2025.com/)!
 - *2025.02*: My undergraduate intern at UMN, [Shilong Xiang](https://shilongxiang.github.io/), received the MURAJ In-Action Grant Award. Congrats!
 - *2025.01*: Our paper, <em>DiminishAR: Diminishing Visual Distractions via Holographic AR Displays</em>, was accepted to [CHI 2025](https://chi2025.acm.org/)! See you in Yokohama 🌸
 - *2025.01*: I am fortunate to receive the CSE Data Science Initiative (DSI) Fellowship. We will be taking Spatial AI to the Sun! 🌞
