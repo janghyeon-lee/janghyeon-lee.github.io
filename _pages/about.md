@@ -40,7 +40,7 @@ redirect_from:
 # About 
 I am a Ph.D. student in Computer Science at [University of Minnesota (UMN)](https://twin-cities.umn.edu/), advised by [Prof. Yao-Yi Chiang](https://knowledge-computing.github.io/).
 
-My research interests lie in machine learning (ML), particularly in the **spatiotemporal domain (space and time)**.  I develop ML models that perform effectively even with sparse and unevenly distributed data, as part of a broader effort to advance **AI for science**.
+**My research interests lie in [AI for Science](https://www.nature.com/articles/s41586-023-06221-2).** I develop machine learning models that enhance workflows in science by learning from data across spatiotemporal (space and time) scales, often with little to no supervision—all to accelerate scientific discovery.
 
 Prior to this, I received my MS and BS in Computing Science from [Simon Fraser University (SFU)](https://www.sfu.ca/), and a BS in Materials Science & Engineering from [Korea University](https://www.korea.edu/mbshome/mbs/en/index.do). I also did an internship at [KAIST](https://www.kaist.ac.kr/en/), which ignited my journey in AI.
 
