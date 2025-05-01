@@ -103,19 +103,5 @@ Prior to this, I received my MS and BS in Computing Science from [Simon Fraser U
   </div>
 </div>
 
-<div class='paper-box'>
-  <div class='paper-box-image'>
-    <img src='images/geoanomalies24.png' alt="sym" width="90%">
-  </div>
-  <div class='paper-box-text' markdown="1">
-  
-## [Context-Aware Trajectory Anomaly Detection](https://dl.acm.org/doi/abs/10.1145/3681765.3698465)
-Haoji Hu, Jina Kim, Jinwei Zhou, Sofia Kirsanova, **JangHyeon Lee**, Yao-Yi Chiang
-
-<span style="color:grey">ACM SIGSPATIAL GeoAnomalies 2024</span>
-
-  </div>
-</div>
-
 # 🎋 Miscellanea
 “Your success in life will be determined largely by your ability to <b>speak</b>, your ability to <b>write</b>, and the quality of your <b>ideas</b>, in <b>that order</b>.”<br>-- [Patrick Winston](https://www.youtube.com/watch?v=Unzc731iCUY)
