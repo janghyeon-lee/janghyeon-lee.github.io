@@ -48,6 +48,7 @@ Prior to this, I received my MS and BS in Computing Science from [Simon Fraser U
 <hr> <!-- Soft line after Curriculum Vitae -->
 
 # 🎉 News
+- *2025.05*: I will be interning with the [GeoAI group](https://www.ornl.gov/group/geoai) at Oak Ridge National Laboratory this summer! 
 - *2025.03*: Our paper, <em>Multi-Modal Region Representation for Green Space Mapping in Delhi, India</em>, was accepted to [ICC 2025](https://icc2025.com/)!
 - *2025.02*: My undergraduate intern at UMN, [Shilong Xiang](https://shilongxiang.github.io/), received the MURAJ In-Action Grant Award. Congrats!
 - *2025.01*: Our paper, <em>DiminishAR: Diminishing Visual Distractions via Holographic AR Displays</em>, was accepted to [CHI 2025](https://chi2025.acm.org/)! See you in Yokohama 🌸
