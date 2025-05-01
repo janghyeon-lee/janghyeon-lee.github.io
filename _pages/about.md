@@ -78,7 +78,7 @@ Prior to this, I received my MS and BS in Computing Science from [Simon Fraser U
 # ✒️ Publications (selected)
 <div class='paper-box'>
   <div class='paper-box-image'>
-    <img src='images/soon.jpg' alt="sym" width="90%">
+    <img src='images/diminishar.gif' alt="sym" width="90%">
   </div>
   <div class='paper-box-text' markdown="1">
 
