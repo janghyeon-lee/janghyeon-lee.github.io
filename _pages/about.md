@@ -40,7 +40,7 @@ redirect_from:
 # About 
 I am a Ph.D. student in Computer Science at [University of Minnesota (UMN)](https://twin-cities.umn.edu/), advised by [Prof. Yao-Yi Chiang](https://knowledge-computing.github.io/).
 
-My research interests lie in [AI for Science](https://www.nature.com/articles/s41586-023-06221-2). I develop machine learning models that accelerate scientific discovery by learning from multimodal data across spatiotemporal (space and time) scales, often with little or no supervision.
+My research focuses on the learning dynamics of neural networks (e.g., [critical learning periods](https://en.wikipedia.org/wiki/Critical_period)). By identifying when, where, and how networks acquire and consolidate information, I aim to improve training efficiency and model generalization.
 
 Prior to this, I received my MS and BS in Computing Science from [Simon Fraser University (SFU)](https://www.sfu.ca/), and a BS in Materials Science & Engineering from [Korea University](https://www.korea.edu/sites/en/index.do). I also did an internship at [KAIST](https://www.kaist.ac.kr/en/), which ignited my journey in AI.
 
@@ -49,7 +49,6 @@ Prior to this, I received my MS and BS in Computing Science from [Simon Fraser U
 
 # 🎉 News
 - *2025.05*: I will be interning with the [GeoAI group](https://www.ornl.gov/group/geoai) at Oak Ridge National Laboratory this summer! 
-- *2025.03*: Our paper, <em>Multi-Modal Region Representation for Green Space Mapping in Delhi, India</em>, was accepted to [ICC 2025](https://icc2025.com/)!
 - *2025.02*: My undergraduate intern at UMN, [Shilong Xiang](https://shilongxiang.github.io/), received the MURAJ In-Action Grant Award. Congrats!
 - *2025.01*: Our paper, <em>DiminishAR: Diminishing Visual Distractions via Holographic AR Displays</em>, was accepted to [CHI 2025](https://chi2025.acm.org/)! See you in Yokohama 🌸
 - *2025.01*: I am fortunate to receive the CSE Data Science Initiative (DSI) Fellowship. We will be taking Spatial AI to the Sun! 🌞
