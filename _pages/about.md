@@ -40,7 +40,7 @@ redirect_from:
 # About 
 I am a Ph.D. student in Computer Science at [University of Minnesota (UMN)](https://twin-cities.umn.edu/), advised by [Prof. Yao-Yi Chiang](https://knowledge-computing.github.io/).
 
-My research focuses on the learning dynamics of neural networks (e.g., [critical learning periods](https://en.wikipedia.org/wiki/Critical_period)). By identifying when, where, and how networks acquire and consolidate information, I aim to improve training efficiency and model generalization.
+My research focuses on the learning dynamics of neural networks (e.g., [critical periods](https://en.wikipedia.org/wiki/Critical_period)). By identifying when and where networks acquire and consolidate information, I aim to improve training efficiency and model generalization.
 
 Prior to this, I received my MS and BS in Computing Science from [Simon Fraser University (SFU)](https://www.sfu.ca/), and a BS in Materials Science & Engineering from [Korea University](https://www.korea.edu/sites/en/index.do). I also did an internship at [KAIST](https://www.kaist.ac.kr/en/), which ignited my journey in AI.
 
