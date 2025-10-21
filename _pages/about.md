@@ -49,10 +49,10 @@ Prior to this, I received my MS and BS in Computing Science from [Simon Fraser U
 
 # 🎉 News
 - *2025.10*: Three papers got accepted to [AAAI 2026 - SAPP](https://aaai.org/conference/aaai/aaai-26/student-abstract-and-poster-program-call/)! Congrats to [Shilong](https://shilongxiang.github.io/) and [Nathan](https://nathanstangler.github.io/). See you in Singapore 🇸🇬
-- *2025.10*: I will present my paper <em>Do All Samples Matter? Data Redundancy in the Era of Large-Scale Training</em> at the [25th KOCSEA Technical Symposium](https://kocseaa.org/symposia/2025/). See you in Vegas!
-- *2025.08*: I will continue my internship with the [GeoAI group](https://www.ornl.gov/group/geoai) at Oak Ridge National Laboratory this Fall!
-- *2025.08*: Our paper, <em>Transit for All: Mapping Equitable Bike2Subway Connection using Region Representation Learning</em>, was accepted to [SIGSPATIAL 2025](https://sigspatial2025.sigspatial.org/)!
-- *2025.05*: I will be interning with the [GeoAI group](https://www.ornl.gov/group/geoai) at Oak Ridge National Laboratory this Summer! 
+- *2025.10*: I will present my paper <em>Do All Samples Matter? Data Redundancy in the Era of Large-Scale Training</em> at the [25th KOCSEA Technical Symposium](https://kocseaa.org/symposia/2025/). See you in Vegas 🎰
+- *2025.08*: I will continue my internship with the [GeoAI group](https://www.ornl.gov/group/geoai) at Oak Ridge National Laboratory (ORNL 🌿) this Fall!
+- *2025.08*: Our paper, <em>Transit for All: Mapping Equitable Bike2Subway Connection using Region Representation Learning</em>, was accepted to [SIGSPATIAL 2025](https://sigspatial2025.sigspatial.org/)! 🌎
+- *2025.05*: I will be interning with the [GeoAI group](https://www.ornl.gov/group/geoai) at Oak Ridge National Laboratory (ORNL 🌿) this Summer!
 - *2025.02*: My undergraduate intern at UMN, [Shilong Xiang](https://shilongxiang.github.io/), received the MURAJ In-Action Grant Award. Congrats!
 - *2025.01*: Our paper, <em>DiminishAR: Diminishing Visual Distractions via Holographic AR Displays</em>, was accepted to [CHI 2025](https://chi2025.acm.org/)! See you in Yokohama 🌸
 - *2025.01*: I am fortunate to receive the CSE Data Science Initiative (DSI) Fellowship. We will be taking Spatial AI to the Sun! 🌞
