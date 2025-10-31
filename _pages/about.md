@@ -40,7 +40,7 @@ redirect_from:
 # About 
 I am a Ph.D. student in Computer Science at [University of Minnesota (UMN)](https://twin-cities.umn.edu/), advised by [Prof. Yao-Yi Chiang](https://knowledge-computing.github.io/).
 
-My research interests lie in understanding the properties of neural networks, with an emphasis on their transient rather than asymptotic behavior. Like humans, neural networks undergo [critical periods](https://en.wikipedia.org/wiki/Critical_period) during which most representational structures are formed. By studying when networks acquire and consolidate information, I aim to improve training efficiency and model generalization.
+My research interests lie in **(1) out-of-distribution (OOD) generalization** and **(2) computational efficiency** for building effective and efficient foundation models. I study (1) how these models learn transferable representations across diverse domains and tasks, and (2) whether all data is truly useful for training foundation models.
 
 Prior to this, I received my MS and BS in Computing Science from [Simon Fraser University (SFU)](https://www.sfu.ca/), and a BS in Materials Science & Engineering from [Korea University](https://www.korea.edu/sites/en/index.do). I also did an internship at [KAIST](https://www.kaist.ac.kr/en/), which ignited my journey in AI.
 
