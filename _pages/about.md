@@ -40,7 +40,7 @@ redirect_from:
 # About 
 I am a Ph.D. student in Computer Science at [University of Minnesota (UMN)](https://twin-cities.umn.edu/), advised by [Prof. Yao-Yi Chiang](https://knowledge-computing.github.io/).
 
-My research interests lie in **(1) out-of-distribution (OOD) generalization** and **(2) computational efficiency** for building effective and efficient [foundation models](https://en.wikipedia.org/wiki/Foundation_model). I study (1) how these models learn transferable representations across diverse domains and tasks, and (2) whether all data is truly useful for training foundation models.
+My research interests lie in **(1) out-of-distribution (OOD) generalization** and **(2) computational efficiency** for building effective and efficient [foundation models](https://en.wikipedia.org/wiki/Foundation_model). I study (1) how these models learn transferable representations across diverse domains and tasks, and (2) whether using more data is truly beneficial for training foundation models.
 
 Prior to this, I received my MS and BS in Computing Science from [Simon Fraser University (SFU)](https://www.sfu.ca/), and a BS in Materials Science & Engineering from [Korea University](https://www.korea.edu/sites/en/index.do). I also did an internship at [KAIST](https://www.kaist.ac.kr/en/), which ignited my journey in AI.
 
