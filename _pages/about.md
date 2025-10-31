@@ -38,7 +38,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # About 
-I am a Ph.D. student in Computer Science at [University of Minnesota (UMN)](https://twin-cities.umn.edu/), advised by [Prof. Yao-Yi Chiang](https://knowledge-computing.github.io/).
+I am a Ph.D. student in Computer Science at [University of Minnesota (UMN)](https://twin-cities.umn.edu/), advised by [Yao-Yi Chiang](https://knowledge-computing.github.io/) and [Dalton Lunga](https://www.ornl.gov/staff-profile/dalton-d-lunga).
 
 My research interests lie in **(1) out-of-distribution (OOD) generalization** and **(2) computational efficiency** for building effective and efficient [foundation models](https://en.wikipedia.org/wiki/Foundation_model). I study (1) how these models learn transferable representations across diverse domains and tasks, and (2) whether longer pretraining and more data are always beneficial for foundation models.
 
