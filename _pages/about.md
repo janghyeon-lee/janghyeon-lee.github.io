@@ -51,7 +51,7 @@ Prior to this, I received my MS and BS in Computing Science from [Simon Fraser U
 - *2026.01*: I will continue my internship with the [GeoAI group](https://www.ornl.gov/group/geoai) at Oak Ridge National Laboratory (ORNL 🌿) this Spring!
 
 <details>
-  <summary>&nbsp;Click to expand (2024)</summary>
+  <summary>&nbsp;Click to expand (2025)</summary>
   
   <article markdown="1" class="post-content">
   - *2025.12*: My undergraduate intern at UMN, [Nathan Stangler](https://nathanstangler.github.io/), presented our ongoing work: SolarCLIP (a CLIP model for the 🌞) at [URS](https://ugresearch.umn.edu/presentation-opportunities/fall-symposium/presenters/nathan-stangler).
