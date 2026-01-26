@@ -61,7 +61,7 @@ Prior to this, I received my MS and BS in Computing Science from [Simon Fraser U
   - *2025.05*: I will be interning with the [GeoAI group](https://www.ornl.gov/group/geoai) at ORNL this Summer.
   - *2025.02*: My undergrad intern at UMN, [Shilong Xiang](https://shilongxiang.github.io/), received the [MURAJ In-Action Grant Award](https://pubs.lib.umn.edu/index.php/muraj/MURAJInAction). Congrats!
   - *2025.01*: Our paper, <em>DiminishAR: Diminishing Visual Distractions via Holographic AR Displays</em>, was accepted to [CHI 2025](https://chi2025.acm.org/)! See you in Yokohama 🌸
-  - *2025.01*: I am fortunate to receive the CSE Data Science Initiative (DSI) Fellowship. We will be taking Spatial AI to the Sun!
+  - *2025.01*: I am fortunate to receive the [CSE Data Science Initiative (DSI) Fellowship](https://cse.umn.edu/dsi/DSI-support). We will be taking Spatial AI to the Sun!
   </article>
 </details>
 
@@ -70,7 +70,6 @@ Prior to this, I received my MS and BS in Computing Science from [Simon Fraser U
   
   <article markdown="1" class="post-content">
   - *2024.10*: I made it into the top 10 teams of the [HuMob competition](https://wp.nyu.edu/humobchallenge2024/)! See you in Atlanta.
-  - *2024.09*: Our paper, <em>Context-Aware Trajectory Anomaly Detection</em>, was accepted to [GeoAnomalies'24](https://onspatial.github.io/GeoAnomalies24/)!
   - *2024.03*: I won the [SFU CS Diversity Award](https://www.sfu.ca/computing/diversity-in-computing-science/activities/cs-diversity-project-presentations-2024.html)!
   </article>
 </details>
