@@ -38,7 +38,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # About 
-I am a Ph.D. student in Computer Science at [University of Minnesota (UMN)](https://twin-cities.umn.edu/), advised by [Yao-Yi Chiang](https://knowledge-computing.github.io/) and [Dalton Lunga](https://www.ornl.gov/staff-profile/dalton-d-lunga).
+I am a PhD student in Computer Science at [University of Minnesota (UMN)](https://twin-cities.umn.edu/), advised by [Yao-Yi Chiang](https://knowledge-computing.github.io/) and [Dalton Lunga](https://www.ornl.gov/staff-profile/dalton-d-lunga).
 
 My research focuses on [self-supervised learning (SSL)](https://en.wikipedia.org/wiki/Self-supervised_learning), with an emphasis on understanding how SSL models learn representations that generalize across diverse downstream tasks. I am interested in improving the efficiency and transferability of SSL, both from a theoretical and practical perspective.
 
