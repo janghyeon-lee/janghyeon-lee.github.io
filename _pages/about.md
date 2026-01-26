@@ -78,7 +78,7 @@ Prior to this, I received my MS and BS in Computing Science from [Simon Fraser U
   <summary>&nbsp;Click to expand (2023)</summary>
   
   <article markdown="1" class="post-content">
-  - *2023.06*: I won the [SFU CS Innovation Prize](https://www.sfu.ca/computing/current-students/graduate-students/academic-programs/professional-master-of-science-in-computer-science/project-showcase/is-seeing-still-not-necessarily-believing-.html)!
+  - *2023.06*: I won the [SFU CS Innovation Prize](https://www.linkedin.com/posts/sfupcs_is-seeing-still-not-necessarily-believing-activity-7074869783812296705-u1BJ)!
   </article>
 </details>
 <hr> <!-- Soft line after "Click to expand" -->
