@@ -40,7 +40,7 @@ redirect_from:
 # About 
 I am a PhD student in Computer Science at [University of Minnesota (UMN)](https://twin-cities.umn.edu/), advised by [Yao-Yi Chiang](https://knowledge-computing.github.io/) and [Dalton Lunga](https://www.ornl.gov/staff-profile/dalton-d-lunga).
 
-My research focuses on [self-supervised learning (SSL)](https://en.wikipedia.org/wiki/Self-supervised_learning), with an emphasis on understanding how SSL models learn representations that generalize across diverse downstream tasks. I am interested in improving the efficiency and transferability of SSL, both from a theoretical and practical perspective.
+My research focuses on [self-supervised learning (SSL)](https://en.wikipedia.org/wiki/Self-supervised_learning), with an emphasis on transferability and efficiency. I am interested in understanding how SSL models learn representations that generalize across diverse downstream tasks, and how these representations can be made more efficient.
 
 Prior to this, I received my MS and BS in Computing Science from [Simon Fraser University (SFU)](https://www.sfu.ca/), and a BS in Materials Science & Engineering from [Korea University](https://www.korea.edu/sites/en/index.do). I also did an internship at [KAIST](https://www.kaist.ac.kr/en/), which ignited my journey in AI.
 
