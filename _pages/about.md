@@ -56,8 +56,6 @@ Prior to this, I received my MS and BS in Computing Science from [Simon Fraser U
   <article markdown="1" class="post-content">
   - *2025.12*: My undergraduate intern at UMN, [Nathan Stangler](https://nathanstangler.github.io/), presented our ongoing work: SolarCLIP (a CLIP model for the 🌞) at [URS](https://ugresearch.umn.edu/presentation-opportunities/fall-symposium/presenters/nathan-stangler).
   - *2025.12*: My undergraduate intern at UMN, [Shilong Xiang](https://shilongxiang.github.io/), received the [UROP Award](https://evcaa.d.umn.edu/undergraduate-research-opportunities-program-urop). Congrats!
-  - *2025.10*: Three papers got accepted to [AAAI 2026-SAPP](https://aaai.org/conference/aaai/aaai-26/student-abstract-and-poster-program-call/)! Congrats to [Shilong](https://shilongxiang.github.io/) and [Nathan](https://nathanstangler.github.io/).
-  - *2025.10*: I will present my paper <em>Do All Samples Matter? Data Redundancy in the Era of Large-Scale Training</em> at the [25th KOCSEA Technical Symposium](https://kocseaa.org/symposia/2025/). See you in Vegas 🎰
   - *2025.08*: I will continue my internship with the [GeoAI group](https://www.ornl.gov/group/geoai) at Oak Ridge National Laboratory (ORNL 🌿) this Fall!
   - *2025.08*: Our paper, <em>Transit for All: Mapping Equitable Bike2Subway Connection using Region Representation Learning</em>, was accepted to [SIGSPATIAL 2025](https://sigspatial2025.sigspatial.org/)! 🌎
   - *2025.05*: I will be interning with the [GeoAI group](https://www.ornl.gov/group/geoai) at Oak Ridge National Laboratory (ORNL 🌿) this Summer!
@@ -71,10 +69,10 @@ Prior to this, I received my MS and BS in Computing Science from [Simon Fraser U
   <summary>&nbsp;Click to expand (2024)</summary>
   
   <article markdown="1" class="post-content">
-  - *2024.10*: I made it into the top 10 teams of the [HuMob'24 competition](https://wp.nyu.edu/humobchallenge2024/) out of 100+ participating teams! See you in Atlanta :)
+  - *2024.10*: I made it into the top 10 teams of the [HuMob'24 competition](https://wp.nyu.edu/humobchallenge2024/) out of 100+ participating teams! See you in Atlanta.
   - *2024.09*: Our paper, <em>Context-Aware Trajectory Anomaly Detection</em>, was accepted to [GeoAnomalies'24](https://onspatial.github.io/GeoAnomalies24/)!
-  - *2024.08*: I officially started my Ph.D. journey at UMN.
-  - *2024.03*: I won the [SFU CS Diversity Award](https://www.sfu.ca/computing/diversity-in-computing-science/activities/cs-diversity-project-presentations-2024.html) for mitigating group identity bias in distilled language models via a dual-teacher approach, all in just one epoch!
+  - *2024.08*: I officially started my Ph.D. journey at UMN :)
+  - *2024.03*: I won the [SFU CS Diversity Award](https://www.sfu.ca/computing/diversity-in-computing-science/activities/cs-diversity-project-presentations-2024.html)!
   </article>
 </details>
 
@@ -83,7 +81,7 @@ Prior to this, I received my MS and BS in Computing Science from [Simon Fraser U
   
   <article markdown="1" class="post-content">
   - *2023.12*: I completed my master's degree in CS at [SFU](https://www.sfu.ca/).
-  - *2023.06*: I won the [SFU CS Innovation Prize](https://www.sfu.ca/computing/current-students/graduate-students/academic-programs/professional-master-of-science-in-computer-science/project-showcase/is-seeing-still-not-necessarily-believing-.html) for tackling data scarcity in medicine and agriculture, boosting data-hungry models with conditional diffusion-generated data!
+  - *2023.06*: I won the [SFU CS Innovation Prize](https://www.sfu.ca/computing/current-students/graduate-students/academic-programs/professional-master-of-science-in-computer-science/project-showcase/is-seeing-still-not-necessarily-believing-.html)!
   </article>
 </details>
 <hr> <!-- Soft line after "Click to expand" -->
