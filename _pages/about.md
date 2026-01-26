@@ -44,7 +44,7 @@ My research focuses on the [transferability](https://en.wikipedia.org/wiki/Trans
 
 Prior to this, I received my MS and BS in Computing Science from [Simon Fraser University (SFU)](https://www.sfu.ca/), and a BS in Materials Science & Engineering from [Korea University](https://www.korea.edu/sites/en/index.do). I also did an internship at [KAIST](https://www.kaist.ac.kr/en/), which ignited my journey in AI.
 
-# [Curriculum Vitae](https://drive.google.com/file/d/1m_peQoGdHjLE8ZRAdHklRb6JqteGw9U6/view?usp=sharing) (updated Jan. 2026)
+# [CV](https://drive.google.com/file/d/1m_peQoGdHjLE8ZRAdHklRb6JqteGw9U6/view?usp=sharing) (Jan. 2026)
 <hr> <!-- Soft line after Curriculum Vitae -->
 
 # 🎉 News
