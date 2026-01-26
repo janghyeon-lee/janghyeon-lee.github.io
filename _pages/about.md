@@ -54,12 +54,12 @@ Prior to this, I received my MS and BS in Computing Science from [Simon Fraser U
   <summary>&nbsp;Click to expand (2025)</summary>
   
   <article markdown="1" class="post-content">
-  - *2025.12*: My undergraduate intern at UMN, [Nathan Stangler](https://nathanstangler.github.io/), presented our ongoing work: SolarCLIP (a CLIP model for the 🌞) at [URS](https://ugresearch.umn.edu/presentation-opportunities/fall-symposium/presenters/nathan-stangler).
-  - *2025.12*: My undergraduate intern at UMN, [Shilong Xiang](https://shilongxiang.github.io/), received the [UROP Award](https://evcaa.d.umn.edu/undergraduate-research-opportunities-program-urop). Congrats!
+  - *2025.12*: My undergrad intern at UMN, [Nathan Stangler](https://nathanstangler.github.io/), presented our ongoing work: SolarCLIP (a CLIP model for the 🌞) at [URS](https://ugresearch.umn.edu/presentation-opportunities/fall-symposium/presenters/nathan-stangler).
+  - *2025.12*: My undergrad intern at UMN, [Shilong Xiang](https://shilongxiang.github.io/), received the [UROP Award](https://evcaa.d.umn.edu/undergraduate-research-opportunities-program-urop). Congrats!
   - *2025.08*: I will continue my internship with the [GeoAI group](https://www.ornl.gov/group/geoai) at Oak Ridge National Laboratory (ORNL 🌿) this Fall!
   - *2025.08*: Our paper, <em>Transit for All: Mapping Equitable Bike2Subway Connection using Region Representation Learning</em>, was accepted to [SIGSPATIAL 2025](https://sigspatial2025.sigspatial.org/)! 🌎
   - *2025.05*: I will be interning with the [GeoAI group](https://www.ornl.gov/group/geoai) at Oak Ridge National Laboratory (ORNL 🌿) this Summer!
-  - *2025.02*: My undergraduate intern at UMN, [Shilong Xiang](https://shilongxiang.github.io/), received the [MURAJ In-Action Grant Award](https://pubs.lib.umn.edu/index.php/muraj/MURAJInAction). Congrats!
+  - *2025.02*: My undergrad intern at UMN, [Shilong Xiang](https://shilongxiang.github.io/), received the [MURAJ In-Action Grant Award](https://pubs.lib.umn.edu/index.php/muraj/MURAJInAction). Congrats!
   - *2025.01*: Our paper, <em>DiminishAR: Diminishing Visual Distractions via Holographic AR Displays</em>, was accepted to [CHI 2025](https://chi2025.acm.org/)! See you in Yokohama 🌸
   - *2025.01*: I am fortunate to receive the CSE Data Science Initiative (DSI) Fellowship. We will be taking Spatial AI to the Sun! 🌞
   </article>
