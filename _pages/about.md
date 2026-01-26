@@ -40,7 +40,7 @@ redirect_from:
 # About 
 I am a Ph.D. student in Computer Science at [University of Minnesota (UMN)](https://twin-cities.umn.edu/), advised by [Yao-Yi Chiang](https://knowledge-computing.github.io/) and [Dalton Lunga](https://www.ornl.gov/staff-profile/dalton-d-lunga).
 
-My research interests lie in **(1) out-of-distribution (OOD) generalization** and **(2) efficient deep learning** for [foundation models](https://en.wikipedia.org/wiki/Foundation_model). I study how these models learn transferable representations across diverse domains and tasks, and whether strong generalization truly requires more data and longer pretraining.
+My research focuses on **[self-supervised learning (SSL)](https://en.wikipedia.org/wiki/Self-supervised_learning)**, with an emphasis on understanding how SSL models learn representations that generalize across diverse downstream tasks. I am interested in improving the efficiency and transferability of SSL representations, both from a theoretical and practical perspective.
 
 Prior to this, I received my MS and BS in Computing Science from [Simon Fraser University (SFU)](https://www.sfu.ca/), and a BS in Materials Science & Engineering from [Korea University](https://www.korea.edu/sites/en/index.do). I also did an internship at [KAIST](https://www.kaist.ac.kr/en/), which ignited my journey in AI.
 
@@ -113,9 +113,3 @@ Prior to this, I received my MS and BS in Computing Science from [Simon Fraser U
 **JangHyeon Lee**, Yao-Yi Chiang
 
 <span style="color:grey">ACM SIGSPATIAL HuMob 2024<br>[Top 10 out of 100+ teams]</span>
-
-  </div>
-</div>
-
-# 🎋 Miscellanea
-“Your success in life will be determined largely by your ability to <b>speak</b>, your ability to <b>write</b>, and the quality of your <b>ideas</b>, in <b>that order</b>.”<br>-- [Patrick Winston](https://www.youtube.com/watch?v=Unzc731iCUY)
