@@ -48,6 +48,7 @@ Prior to this, I received my MS and BS in Computing Science from [Simon Fraser U
 <hr> <!-- Soft line after Curriculum Vitae -->
 
 # 🎉 News
+- *2026.01*: Our work on information-theoretic multimodal learning (details to come) was accepted to [CVPR 2026](https://cvpr.thecvf.com/)! See you in Denver :)
 - *2026.01*: Our work on self-supervised learning (details to come) was accepted to [ICLR 2026](https://iclr.cc/)! See you in Rio 🇧🇷
 - *2026.01*: I will continue my internship with the [GeoAI group](https://www.ornl.gov/group/geoai) at ORNL this Spring.
 
