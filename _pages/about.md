@@ -30,6 +30,10 @@ redirect_from:
   .paper-box:first-of-type {
     margin-top: -1.5em !important;
   }
+  .paper-box-image > div {
+    margin-bottom: 0 !important;
+    line-height: 0;
+  }
 </style>
 
 {% if site.google_scholar_stats_use_cdn %}
