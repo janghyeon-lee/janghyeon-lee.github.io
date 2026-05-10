@@ -18,7 +18,12 @@ redirect_from:
     margin-bottom: 0;
   }
   .paper-box:first-of-type {
-    margin-top: 0.5em;
+    margin-top: 0 !important;
+    padding-top: 0 !important;
+  }
+  .paper-box:first-of-type .paper-box-image {
+    margin-top: 0 !important;
+    padding-top: 0 !important;
   }
 </style>
 
