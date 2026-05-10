@@ -24,8 +24,8 @@ redirect_from:
   }
   .paper-box {
     border-bottom: none !important;
-    margin-top: -1em !important;
-    margin-bottom: -1em !important;
+    margin-top: -2em !important;
+    margin-bottom: -2em !important;
   }
   .paper-box:first-of-type {
     margin-top: -1.5em !important;
