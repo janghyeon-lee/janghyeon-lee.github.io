@@ -37,13 +37,6 @@ redirect_from:
     display: block;
     margin: 0;
   }
-  .paper-box-text {
-    padding-bottom: 0 !important;
-    margin-bottom: 0 !important;
-  }
-  .paper-box-text p:last-child {
-    margin-bottom: 0 !important;
-  }
 </style>
 
 {% if site.google_scholar_stats_use_cdn %}
