@@ -31,10 +31,11 @@ redirect_from:
     margin-top: -1.5em !important;
   }
   .paper-box-image img {
+    width: 100%;
     height: 180px;
-    width: auto;
+    object-fit: contain;
     display: block;
-    margin: 0 auto;
+    margin: 0;
   }
 </style>
 
