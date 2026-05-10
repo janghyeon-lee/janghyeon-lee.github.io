@@ -115,8 +115,6 @@ Prior to this, I received my MS and BS in Computing Science from [Simon Fraser U
   </div>
 </div>
 
-<hr> <!-- Soft line after Publications -->
-
 # 🤝 Service
 **Reviewer**
 
