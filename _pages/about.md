@@ -127,3 +127,8 @@ Prior to this, I received my MS and BS in Computing Science from [Simon Fraser U
 *GeoAI*: SIGSPATIAL (2025), IGARSS (2026), TSAS (2025), GRSL (2026)
 
 *HCI*: CHI (2026), UIST (2025), IJHCI (2026)
+
+<hr> <!-- Soft line after Service -->
+
+# 🎋 Miscellanea
+"Your success in life will be determined largely by your ability to <b>speak</b>, your ability to <b>write</b>, and the quality of your <b>ideas</b>, in <b>that order</b>."<br>-- [Patrick Winston](https://www.youtube.com/watch?v=Unzc731iCUY)
