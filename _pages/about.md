@@ -17,8 +17,8 @@ redirect_from:
   details {
     margin-bottom: 0;
   }
-  .paper-box {
-    margin-top: 0.8em;
+  .paper-box:first-of-type {
+    margin-top: 0.5em;
   }
 </style>
 
