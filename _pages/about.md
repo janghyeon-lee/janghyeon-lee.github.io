@@ -112,6 +112,7 @@ Prior to this, I received my MS and BS in Computing Science from [Simon Fraser U
 
 <span style="color:grey">ACM SIGSPATIAL HuMob Challenge 2024 (Top 10/100+)</span>
 
+  </div>
 </div>
 
 <hr> <!-- Soft line after Publications -->
