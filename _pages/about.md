@@ -40,6 +40,8 @@ Prior to this, I received my MS and BS in Computing Science from [Simon Fraser U
 
 # [Resume](https://drive.google.com/file/d/1m_peQoGdHjLE8ZRAdHklRb6JqteGw9U6/view?usp=sharing)
 
+<hr>
+
 # 🎉 News
 - *2026.05*: I will continue my internship with the [GeoAI group](https://www.ornl.gov/group/geoai) at ORNL this Summer.
 - *2026.02*: Our work on information-theoretic multimodal learning was accepted to [CVPR 2026](https://cvpr.thecvf.com/)! See you in Denver 🌇
@@ -78,6 +80,8 @@ Prior to this, I received my MS and BS in Computing Science from [Simon Fraser U
   </article>
 </details>
 
+<hr>
+
 # ✒️ Publications (selected)
 <div class='paper-box'>
   <div class='paper-box-image'>
@@ -107,12 +111,16 @@ Prior to this, I received my MS and BS in Computing Science from [Simon Fraser U
   </div>
 </div>
 
+<hr>
+
 # 🤝 Service
 **Reviewer**
-- *ML*: NeurIPS (2026), ICML (2026), AAAI (2026)
-- *Vision*: CVPR (2026), ICRA (2026), WACV (2026), TCSVT (2025)
-- *GeoAI*: SIGSPATIAL (2025), IGARSS (2026), TSAS (2025), GRSL (2026)
-- *HCI*: CHI (2026), UIST (2025), IJHCI (2026)
+- *ML*: NeurIPS ('26), ICML ('26), AAAI ('26)
+- *Vision*: CVPR ('26), ICRA ('26), WACV ('26), TCSVT ('25)
+- *GeoAI*: SIGSPATIAL ('25), IGARSS ('26), TSAS ('25), GRSL ('26)
+- *HCI*: CHI ('26), UIST ('25), IJHCI ('26)
+
+<hr>
 
 # 🎋 Miscellanea
 "Your success in life will be determined largely by your ability to <b>speak</b>, your ability to <b>write</b>, and the quality of your <b>ideas</b>, in <b>that order</b>."<br>-- [Patrick Winston](https://www.youtube.com/watch?v=Unzc731iCUY)
