@@ -95,6 +95,37 @@ Prior to this, I received my MS and BS in Computing Science from [Simon Fraser U
 # ✒️ Publications (selected)
 <div class='paper-box'>
   <div class='paper-box-image'>
+    <img src='images/cvpr2026_pipeline.png' alt="sym" width="90%">
+  </div>
+  <div class='paper-box-text' markdown="1">
+
+## [BWS](https://cvpr.thecvf.com/virtual/2026/poster/37262)
+**JangHyeon Lee**, Philipe Ambrozio Dias, Yao-Yi Chiang, Dalton Lunga
+
+<span style="color:grey">CVPR 2026</span>
+
+  </div>
+</div>
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div style="display: flex; gap: 4px; align-items: center; justify-content: center;">
+      <img src='images/iclr2026_transfer.png' alt="sym" style="width: 45%;">
+      <img src='images/iclr2026_theory.png' alt="sym" style="width: 45%;">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+
+## [CP4SSL](https://openreview.net/pdf?id=UxIRc97ecL)
+**JangHyeon Lee**, Philipe Ambrozio Dias, Yao-Yi Chiang, Dalton Lunga
+
+<span style="color:grey">ICLR 2026</span>
+
+  </div>
+</div>
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
     <img src='images/diminishar.gif' alt="sym" width="90%">
   </div>
   <div class='paper-box-text' markdown="1">
