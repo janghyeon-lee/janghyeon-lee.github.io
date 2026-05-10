@@ -118,7 +118,11 @@ Prior to this, I received my MS and BS in Computing Science from [Simon Fraser U
 
 # 🤝 Service
 **Reviewer**
-- *ML*: NeurIPS (2026), ICML (2026), AAAI (2026)
-- *Vision*: CVPR (2026), ICRA (2026), WACV (2026), TCSVT (2025)
-- *GeoAI*: SIGSPATIAL (2025), IGARSS (2026), TSAS (2025), GRSL (2026)
-- *HCI*: CHI (2026), UIST (2025), IJHCI (2026)
+
+*ML*: NeurIPS (2026), ICML (2026), AAAI (2026)
+
+*Vision*: CVPR (2026), ICRA (2026), WACV (2026), TCSVT (2025)
+
+*GeoAI*: SIGSPATIAL (2025), IGARSS (2026), TSAS (2025), GRSL (2026)
+
+*HCI*: CHI (2026), UIST (2025), IJHCI (2026)
