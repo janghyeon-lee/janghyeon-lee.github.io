@@ -17,16 +17,8 @@ redirect_from:
   details {
     margin-bottom: 0;
   }
-  .paper-box {
-    border-bottom: none !important;
-  }
   .paper-box:first-of-type {
-    margin-top: 0 !important;
-    padding-top: 0 !important;
-  }
-  .paper-box:first-of-type .paper-box-image {
-    margin-top: 0 !important;
-    padding-top: 0 !important;
+    margin-top: -1.5em !important;
   }
 </style>
 
