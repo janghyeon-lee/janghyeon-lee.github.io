@@ -130,7 +130,7 @@ Prior to this, I received my MS and BS in Computing Science from [Simon Fraser U
 ## [DiminishAR](https://dl.acm.org/doi/10.1145/3706598.3713415)
 **JangHyeon Lee**, Lawrence Kim
 
-<span style="color:grey">ACM CHI 2025</span>
+<span style="color:grey">CHI 2025</span>
 
   </div>
 </div>
