@@ -30,10 +30,6 @@ redirect_from:
   .paper-box:first-of-type {
     margin-top: -1.5em !important;
   }
-  .paper-box-image > div {
-    margin-bottom: 0 !important;
-    line-height: 0;
-  }
 </style>
 
 {% if site.google_scholar_stats_use_cdn %}
@@ -113,10 +109,7 @@ Prior to this, I received my MS and BS in Computing Science from [Simon Fraser U
 
 <div class='paper-box'>
   <div class='paper-box-image'>
-    <div style="display: flex; gap: 4px; align-items: center; justify-content: center;">
-      <img src='images/iclr2026_transfer.png' alt="sym" style="width: 45%;">
-      <img src='images/iclr2026_theory.png' alt="sym" style="width: 45%;">
-    </div>
+    <img src='images/iclr2026_theory.png' alt="sym" width="90%">
   </div>
   <div class='paper-box-text' markdown="1">
 
