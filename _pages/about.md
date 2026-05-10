@@ -17,6 +17,11 @@ redirect_from:
   details {
     margin-bottom: 0;
   }
+  hr {
+    border: 0;
+    border-top: 1px solid #999;
+    margin: 1em 0;
+  }
   .paper-box {
     border-bottom: none !important;
     margin-top: 0.5em !important;
