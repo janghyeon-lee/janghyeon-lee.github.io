@@ -117,7 +117,7 @@ Prior to this, I received my MS and BS in Computing Science from [Simon Fraser U
 ## [BWS](https://cvpr.thecvf.com/virtual/2026/poster/37262)
 **JangHyeon Lee**, Philipe A. Dias, Yao-Yi Chiang, Dalton Lunga
 
-<span style="color:grey">CVPR 2026</span>
+CVPR 2026
 
   </div>
 </div>
@@ -131,7 +131,7 @@ Prior to this, I received my MS and BS in Computing Science from [Simon Fraser U
 ## [CP4SSL](https://openreview.net/pdf?id=UxIRc97ecL)
 **JangHyeon Lee**, Philipe A. Dias, Yao-Yi Chiang, Dalton Lunga
 
-<span style="color:grey">ICLR 2026</span>
+ICLR 2026
 
   </div>
 </div>
@@ -143,9 +143,9 @@ Prior to this, I received my MS and BS in Computing Science from [Simon Fraser U
   <div class='paper-box-text' markdown="1">
 
 ## [DiminishAR](https://dl.acm.org/doi/10.1145/3706598.3713415)
-**JangHyeon Lee**, Lawrence Kim
+<span style="color:grey">**JangHyeon Lee**, Lawrence Kim</span>
 
-<span style="color:grey">CHI 2025</span>
+CHI 2025
 
   </div>
 </div>
