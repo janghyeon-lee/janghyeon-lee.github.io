@@ -32,7 +32,7 @@ redirect_from:
   }
   .paper-box-image img {
     max-width: 100%;
-    max-height: 280px;
+    max-height: 200px;
     width: auto;
     height: auto;
     display: block;
@@ -143,7 +143,7 @@ ICLR 2026
   <div class='paper-box-text' markdown="1">
 
 ## [DiminishAR](https://dl.acm.org/doi/10.1145/3706598.3713415)
-<span style="color:grey">**JangHyeon Lee**, Lawrence Kim</span>
+**JangHyeon Lee**, Lawrence Kim
 
 CHI 2025
 
