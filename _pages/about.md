@@ -32,9 +32,10 @@ redirect_from:
   }
   .paper-box-image img {
     width: 100%;
-    max-height: 200px;
+    max-height: 250px;
     height: auto;
     object-fit: contain;
+    object-position: left;
     display: block;
     margin: 0;
   }
