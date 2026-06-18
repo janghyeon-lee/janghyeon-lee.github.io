@@ -115,7 +115,7 @@ Prior to this, I received my MS and BS in Computing Science from [Simon Fraser U
   </div>
   <div class='paper-box-text' markdown="1">
 
-## [BWS](https://cvpr.thecvf.com/virtual/2026/poster/37262)
+## [BWS](https://openaccess.thecvf.com/content/CVPR2026/papers/Lee_Beyond_Whats_Shared_Recovering_Lost_Unique_Information_from_Intermediate_Layers_CVPR_2026_paper.pdf)
 **JangHyeon Lee**, Philipe A. Dias, Yao-Yi Chiang, Dalton Lunga
 
 CVPR 2026
