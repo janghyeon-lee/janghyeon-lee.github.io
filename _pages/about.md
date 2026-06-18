@@ -143,7 +143,7 @@ ICLR 2026
   </div>
   <div class='paper-box-text' markdown="1">
 
-## [DiminishAR](https://dl.acm.org/doi/10.1145/3706598.3713415)
+## [DiminishAR](https://dl.acm.org/doi/pdf/10.1145/3706598.3713415)
 **JangHyeon Lee**, Lawrence Kim
 
 CHI 2025
