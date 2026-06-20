@@ -155,7 +155,7 @@ CHI 2025
 
 # 🤝 Service
 **Reviewer**
-- *ML*: NeurIPS ('26), ICML ('26: 🥈 Silver Recognition), AAAI ('26)
+- *ML*: NeurIPS ('26), ICML ('26: 🥈 Silver Recognition), TMLR ('26), AAAI ('26)
 - *Vision*: CVPR ('26), ICRA ('26), WACV ('26), TCSVT ('25)
 - *GeoAI*: SIGSPATIAL ('25, '26), IGARSS ('26), TSAS ('25), GRSL ('26)
 - *HCI*: CHI ('26), UIST ('25), IJHCI ('26)
