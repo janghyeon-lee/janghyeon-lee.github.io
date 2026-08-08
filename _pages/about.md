@@ -69,7 +69,7 @@ Prior to this, I received my MS and BS in Computing Science from [Simon Fraser U
 <hr>
 
 # 🎉 News
-- *2026.08*: Two papers (main and demo track) were accepted to [SIGSPATIAL 2026](https://sigspatial2026.sigspatial.org/)! See you in Riverside :)
+- *2026.08*: Two papers (research and demo track) were accepted to [SIGSPATIAL 2026](https://sigspatial2026.sigspatial.org/)! See you in Riverside :)
 - *2026.05*: My undergrad intern at UMN, Yiling Sun, received the UROP Award. Congrats!
 - *2026.05*: I will continue my internship with the [GeoAI group](https://www.ornl.gov/group/geoai) at ORNL this Summer.
 - *2026.02*: Our work on information-theoretic multimodal learning was accepted to [CVPR 2026](https://cvpr.thecvf.com/)! See you in Denver 🌇
