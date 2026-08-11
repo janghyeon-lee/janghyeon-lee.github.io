@@ -58,11 +58,11 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # About 
-I am a PhD student in Computer Science at [University of Minnesota (UMN)](https://twin-cities.umn.edu/), advised by [Yao-Yi Chiang](https://knowledge-computing.github.io/) and [Dalton Lunga](https://www.ornl.gov/staff-profile/dalton-d-lunga).
+I am a PhD student in Computer Science at [University of Minnesota](https://twin-cities.umn.edu/), advised by [Yao-Yi Chiang](https://knowledge-computing.github.io/) and [Dalton Lunga](https://www.ornl.gov/staff-profile/dalton-d-lunga).
 
 I have a broad interest in the [transferability](https://en.wikipedia.org/wiki/Transfer_learning) of learned representations, particularly those learned through [self-supervised learning (SSL)](https://en.wikipedia.org/wiki/Self-supervised_learning). 
 
-Prior to this, I received my MS and BS in Computing Science from [Simon Fraser University (SFU)](https://www.sfu.ca/), and a BS in Materials Science & Engineering from [Korea University](https://www.korea.edu/sites/en/index.do). I also did an internship at [KAIST](https://www.kaist.ac.kr/en/), which sparked my journey into AI.
+Prior to this, I received my MS and BS in Computing Science from [Simon Fraser University](https://www.sfu.ca/), and a BS in Materials Science & Engineering from [Korea University](https://www.korea.edu/sites/en/index.do). I also did an internship at [KAIST](https://www.kaist.ac.kr/en/), which sparked my journey into AI.
 
 # [Resume](https://drive.google.com/file/d/1m_peQoGdHjLE8ZRAdHklRb6JqteGw9U6/view?usp=sharing)
 
