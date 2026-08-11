@@ -62,7 +62,7 @@ I am a PhD student in Computer Science at [University of Minnesota](https://twin
 
 I have broad interests in [foundation models](https://en.wikipedia.org/wiki/Foundation_model) and [self-supervised learning](https://en.wikipedia.org/wiki/Self-supervised_learning) for real-world applications (e.g., remote sensing, time series).
 
-Prior to this, I received my MS and BS in Computing Science from [Simon Fraser University](https://www.sfu.ca/), and a BS in Materials Science & Engineering from [Korea University](https://www.korea.edu/sites/en/index.do). I also did an internship at [KAIST](https://www.kaist.ac.kr/en/), which sparked my journey into AI.
+Prior to this, I received my MS and BS in Computing Science from [Simon Fraser University](https://www.sfu.ca/), and a BS in Materials Science & Engineering from [Korea University](https://www.korea.edu/sites/en/index.do). I have also interned at [Oak Ridge National Laboratory](https://www.ornl.gov/) and [KAIST](https://www.kaist.ac.kr/en/).
 
 # [Resume](https://drive.google.com/file/d/1m_peQoGdHjLE8ZRAdHklRb6JqteGw9U6/view?usp=sharing)
 
