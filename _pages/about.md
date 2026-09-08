@@ -58,7 +58,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # About 
-I am a PhD student in Computer Science at [University of Minnesota (UMN)](https://twin-cities.umn.edu/), advised by [Yao-Yi Chiang](https://knowledge-computing.github.io/) and [Dalton Lunga](https://www.ornl.gov/staff-profile/dalton-d-lunga). Currently, I am an AI Scholar at [Samsung Research America (SRA)](https://sra.samsung.com/).
+I am a PhD student in Computer Science at [University of Minnesota (UMN)](https://twin-cities.umn.edu/), advised by [Yao-Yi Chiang](https://knowledge-computing.github.io/) and [Dalton Lunga](https://www.ornl.gov/staff-profile/dalton-d-lunga).
 
 I have broad interests in [foundation models](https://en.wikipedia.org/wiki/Foundation_model) and [self-supervised learning](https://en.wikipedia.org/wiki/Self-supervised_learning) for real-world applications (e.g., remote sensing, on-device AI).
 
@@ -69,7 +69,6 @@ Prior to this, I received my MS and BS in Computing Science from [Simon Fraser U
 <hr>
 
 # 🎉 News
-- *2026.09*: I will be joining [Samsung Research America (SRA)](https://sra.samsung.com/) as an AI Scholar this Fall. See you in Mountain View :)
 - *2026.08*: Two papers (research and demo track) were accepted to [SIGSPATIAL 2026](https://sigspatial2026.sigspatial.org/)! See you in Riverside :)
 - *2026.05*: My undergrad intern at UMN, Yiling Sun, received the UROP Award. Congrats!
 - *2026.05*: I will continue my internship with the [GeoAI group](https://www.ornl.gov/group/geoai) at ORNL this Summer.
