@@ -131,7 +131,7 @@ CVPR 2026
   </div>
   <div class='paper-box-text' markdown="1">
 
-## [CP4SSL](https://openreview.net/pdf?id=UxIRc97ecL)
+## [CP4SSL](https://proceedings.iclr.cc/paper_files/paper/2026/file/86ddf3543ad437d71c37e510f41b1a53-Paper-Conference.pdf)
 **JangHyeon Lee**, Philipe A. Dias, Yao-Yi Chiang, Dalton Lunga
 
 ICLR 2026
