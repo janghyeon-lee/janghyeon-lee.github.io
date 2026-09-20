@@ -58,7 +58,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # About 
-I am a PhD student in Computer Science at [University of Minnesota (UMN)](https://twin-cities.umn.edu/), advised by [Yao-Yi Chiang](https://knowledge-computing.github.io/) and [Dalton Lunga](https://www.ornl.gov/staff-profile/dalton-d-lunga).
+I am a PhD candidate in Computer Science at [University of Minnesota (UMN)](https://twin-cities.umn.edu/), advised by [Yao-Yi Chiang](https://knowledge-computing.github.io/) and [Dalton Lunga](https://www.ornl.gov/staff-profile/dalton-d-lunga).
 
 I have broad interests in [foundation models](https://en.wikipedia.org/wiki/Foundation_model) and [self-supervised learning](https://en.wikipedia.org/wiki/Self-supervised_learning) for real-world applications (e.g., remote sensing, on-device AI).
 
