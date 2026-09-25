@@ -70,7 +70,7 @@ Prior to this, I received my MS and BS in Computing Science from [Simon Fraser U
 
 # 🎉 News
 - *2026.09*: Two papers were accepted to [NeurIPS 2026](https://neurips.cc/). Congrats!
-- *2026.09*: Our team made it to the top 3 in the [OASIS 2026 Challenge](https://rsvp.withgoogle.com/events/oasis-2026) and received a Google DeepMind Travel Grant :)
+- *2026.09*: Our team made it to the top 3 in the [OASIS 2026 Challenge](https://rsvp.withgoogle.com/events/oasis-2026) and received a Google DeepMind Travel Grant. Congrats!
 - *2026.09*: I will be joining [Samsung Research America (SRA)](https://sra.samsung.com/) as an AI Scholar this Fall. See you in Mountain View :)
 - *2026.08*: Two papers were accepted to [SIGSPATIAL 2026](https://sigspatial2026.sigspatial.org/). Congrats!
 - *2026.05*: My undergrad intern at UMN, Yiling Sun, received the UROP Award. Congrats!
