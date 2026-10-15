@@ -69,7 +69,7 @@ Prior to this, I received my MS and BS in Computing Science from [Simon Fraser U
 <hr>
 
 # 🎉 News
-- *2026.09*: One paper was accepted to [WACV 2027](https://wacv.thecvf.com/). Congrats!
+- *2026.10*: One paper was accepted to [WACV 2027](https://wacv.thecvf.com/). Congrats!
 - *2026.09*: Two papers were accepted to [NeurIPS 2026](https://neurips.cc/). Congrats!
 - *2026.09*: Our team placed in the top 3 at the [OASIS 2026 Challenge](https://rsvp.withgoogle.com/events/oasis-2026) and received a Google DeepMind Travel Grant. Congrats!
 - *2026.09*: I will be joining [Samsung Research America (SRA)](https://sra.samsung.com/) as an AI Scholar this fall. See you in Mountain View :)
