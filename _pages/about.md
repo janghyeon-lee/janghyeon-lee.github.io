@@ -84,7 +84,7 @@ Prior to this, I received my MS and BS in Computing Science from [Simon Fraser U
   <summary>&nbsp;Click to expand (2025)</summary>
   
   <article markdown="1" class="post-content">
-  - *2025.12*: My undergraduate intern at UMN, [Nathan Stangler](https://nathanstangler.github.io/), presented our work <em>SolarCLIP (a CLIP model for the Sun)</em> at [URS](https://ugresearch.umn.edu/presentation-opportunities/fall-symposium/presenters/nathan-stangler).
+  - *2025.12*: My undergraduate intern at UMN, [Nathan Stangler](https://nathanstangler.github.io/), presented our work <em>SolarCLIP (a CLIP model for the Sun)</em> at the [Undergraduate Research Symposium](https://ugresearch.umn.edu/presentation-opportunities/fall-symposium/presenters/nathan-stangler).
   - *2025.12*: My undergraduate intern at UMN, [Shilong Xiang](https://shilongxiang.github.io/), received a [UROP Award](https://evcaa.d.umn.edu/undergraduate-research-opportunities-program-urop). Congrats!
   - *2025.09*: I will continue my internship with the [GeoAI group](https://www.ornl.gov/group/geoai) at ORNL this fall.
   - *2025.08*: Our paper, <em>Transit for All: Mapping Equitable Bike2Subway Connection using Region Representation Learning</em>, was accepted to [SIGSPATIAL 2025](https://sigspatial2025.sigspatial.org/)!
